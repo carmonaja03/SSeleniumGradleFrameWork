@@ -1,0 +1,60 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "ip-192-168-1-7.us-west-2.compute.internal",
+    "children" : [ {
+      "name" : "23919@ip-192-168-1-7.us-west-2.compute.internal.Test worker(13)",
+      "children" : [ {
+        "name" : "todoMvc()",
+        "uid" : "bfe433f7343f8a72",
+        "parentUid" : "9da72d02d50548127198deaf52f225f5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623541572237,
+          "stop" : 1623541578244,
+          "duration" : 6007
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9da72d02d50548127198deaf52f225f5"
+    }, {
+      "name" : "23826@ip-192-168-1-7.us-west-2.compute.internal.Test worker(13)",
+      "children" : [ {
+        "name" : "todoMvc()",
+        "uid" : "f34e57d8fc347aad",
+        "parentUid" : "0d65bdfa99ccee935f6808d8670a9f4f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1623541256814,
+          "stop" : 1623541267211,
+          "duration" : 10397
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0d65bdfa99ccee935f6808d8670a9f4f"
+    }, {
+      "name" : "23886@ip-192-168-1-7.us-west-2.compute.internal.Test worker(13)",
+      "children" : [ {
+        "name" : "todoMvc()",
+        "uid" : "e4f7846a19f6d795",
+        "parentUid" : "f89b41fe21f7cdb97cc7b89bec0fb7a9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1623541542193,
+          "stop" : 1623541552168,
+          "duration" : 9975
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f89b41fe21f7cdb97cc7b89bec0fb7a9"
+    } ],
+    "uid" : "85a104383478097e14c613fab2afab5d"
+  } ]
+}

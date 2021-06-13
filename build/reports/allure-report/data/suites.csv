@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Jun 13 07:46:12 PST 2021","Sun Jun 13 07:46:18 PST 2021","6007","","com.example.SelenideGradleFramework.MainTest","","com.example.SelenideGradleFramework.MainTest","todoMvc","todoMvc()",""

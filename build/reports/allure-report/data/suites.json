@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "com.example.SelenideGradleFramework.MainTest",
+    "children" : [ {
+      "name" : "todoMvc()",
+      "uid" : "bfe433f7343f8a72",
+      "parentUid" : "dd690c84129b399e896ac775b9987cd7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623541572237,
+        "stop" : 1623541578244,
+        "duration" : 6007
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "dd690c84129b399e896ac775b9987cd7"
+  } ]
+}

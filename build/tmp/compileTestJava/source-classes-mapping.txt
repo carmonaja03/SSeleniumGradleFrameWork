@@ -1,0 +1,4 @@
+com/example/SelenideGradleFramework/MainTest.java
+ com.example.SelenideGradleFramework.MainTest
+com/example/SelenideGradleFramework/TodomvcPage.java
+ com.example.SelenideGradleFramework.TodomvcPage
